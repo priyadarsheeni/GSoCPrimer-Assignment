@@ -1,0 +1,56 @@
+HTML:
+1. Create a checkbox input feild in HTML
+
+2. Write an HTML code to display the below preformatted text
+  Text in a pre element
+  	is displayed in a fixed-width
+  font, and it preserves
+  both      spaces and
+  line breaks
+
+3. How to create a hyperlink that opens in a new tab?
+
+4. Implement a basic form with a text input and a submit button.
+
+5. Create an unordered list containing items - coffee, tea, milk
+
+
+
+CSS:
+1. Write the syntax of any 2 pseudo classes? Implement a CSS rule to style the first letter of each paragraph with a larger font size and a different color.
+
+2. Arrange inline, internal, outline css according to their priorities and which command is used to make a less prior property the most priority one?
+
+3. Write the 3 different ways to hide element using CSS?
+
+4. What will be the width of the div element given below?
+div {
+  width: 310px;
+  padding: 20px;
+  border: 5px solid blue;
+  margin: 0;
+}
+
+5. Write css to control image repetation?
+
+
+
+JavaScript:
+
+1. Write the syntax to use the element by their id's?
+
+2. Write a syntax to use addEventListner on button?
+
+3. Implement a timeout function that logs "Hello" after 2 seconds.
+
+4. What will be the output of the following code snippet?
+(function(){
+ setTimeout(()=> console.log(1),2000);
+ console.log(2);
+ setTimeout(()=> console.log(3),0);
+ console.log(4);
+})();
+
+5. How to iterate through the keys of an object?
+const myObject = { key1: 'value1', key2: 'value2', key3: 'value3' }; 
+ 
